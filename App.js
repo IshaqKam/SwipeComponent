@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons'
 
-import SwipeComponent from './SwipeComponent';
+import SwipeComponent from './components/SwipeComponent';
 
 export default function App() {
 
